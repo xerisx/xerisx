@@ -3,7 +3,7 @@
 # 🎉🌱 Daily Conversion Challenge: Day ✨2✨ in a Row!! 🌱🎉
 
 To habituate coding and level up as an engineer, I'm challenging myself to make daily contributions on GitHub.  
-(Cannot be faked as it's updated daily by cron!!)
+([This script](https://github.com/xerisx/contribution-tracker) is executed daily and is being automatically updated!)
 
 ## 💁‍♂ About Me
 💻 **Experienced Languages:**  
