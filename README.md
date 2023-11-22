@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🎉🌱 Daily Conversion Challenge: Day ✨6✨ in a Row!! 🌱🎉
+# 🎉🌱 Daily Conversion Challenge: Day ✨2✨ in a Row!! 🌱🎉
 
 To habituate coding and level up as an engineer, I'm challenging myself to make daily contributions on GitHub.  
 (Cannot be faked as it's updated daily by cron!!)
