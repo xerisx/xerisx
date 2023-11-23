@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🎉🌱 Daily Conversion Challenge: Day ✨2✨ in a Row!! 🌱🎉
+# 🍃😭 Unfortunately, the updates have stopped... 😭🍃
 
 To habituate coding and level up as an engineer, I'm challenging myself to make daily contributions on GitHub.  
 ([This script](https://github.com/xerisx/contribution-tracker) is executed daily and is being automatically updated!)
