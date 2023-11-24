@@ -14,7 +14,7 @@ To habituate coding and level up as an engineer, I'm challenging myself to make 
 
 🙋‍♂️ **Self-Introduction:**  
 &nbsp;&emsp;In my professional career, I primarily focused on developing RestAPIs using Ruby.  
-&nbsp;&emsp;As a freelancer, I am now engaged in developing APIs with Ruby and Rust, as well as front-end development using React.  
+&nbsp;&emsp;I am currently involved in API development using Ruby and Rust, as well as front-end development with React. 
 &nbsp;&emsp;Beyond just the technology, I have a passion for creating things. In my private time, I enjoy developing iOS apps using SwiftUI.  
 &nbsp;&emsp;Ah, I can hardly read English, but I write everything in English because it looks cool 😆  
 &nbsp;&emsp;Currently undertaking a daily contribution challenge! 🌱  
